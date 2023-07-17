@@ -59,23 +59,18 @@ Translation app
 |<img src="snapshot/Screenshot_1654914352.png" width="400">| <img src="snapshot/Screenshot_1654914664.png" width="400"> |
 
 
-| Home Screen                                           | Create Tickect Screen         |
+| Home Screen                                           | Example 1         |
 |--------------------------------------------------|---------------------------------------|
-| <img src="snapshot/Screenshot_1654914680.png" width="400">      | <img src="snapshot/making_new_tickect.png" width="400"> |
+| <img src="snapshot/Screenshot_1654914680.png" width="400">      | <img src="snapshot/lang4.png" width="400">       |
 
 
-
-| Example 1                                           | Example 2         |
+| Example 2                                           | Example 3         |
 |--------------------------------------------------|---------------------------------------|
 | <img src="snapshot/lang.png" width="400">      | <img src="snapshot/lang1.png" width="400"> |
 
 
-| Example 3                                           | Example 4         |
+| Example 4                                           | Example 5         |
 |--------------------------------------------------|---------------------------------------|
 | <img src="snapshot/lang2.png" width="400">      | <img src="snapshot/lang3.png" width="400"> |
 
 
-
-| Example 5                                        |        
-|--------------------------------------------------|
-| <img src="snapshot/lang4.png" width="400">       |
